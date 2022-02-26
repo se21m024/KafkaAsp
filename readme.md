@@ -17,7 +17,8 @@ This is a containerised ASP .NET 6 web API project to demonstrate a basic Kafka 
 
 Clone the following repository:
 <br/>
-
+https://github.com/se21m024/KafkaAsp
+<br/>
 <br/>
 In the docker-compose.yml file the threshold for declining transactions can be configured. In this case all transactions with an amount of more than 2000 are declined.
 
